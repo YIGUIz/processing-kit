@@ -1,2 +1,4 @@
-# processing-kit
-Some self-written scripts used for pre-processing for graduate projects
+👩Author
+Qi Zhang
+Contact me:yiguizhang_666@163.com
+College of Animal Science and Technology,China Agricultural University
