@@ -5,7 +5,7 @@ Contact me:yiguizhang_666@163.com
 College of Animal Science and Technology,China Agricultural University
 
 
-一.cow_distribute
+一. cow_distribute
 def:we can infer many informations from the standard id of cattle, such as the province,tha farm and birth year.
 Required file:
 
