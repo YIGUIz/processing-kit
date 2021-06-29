@@ -4,7 +4,9 @@ Contact me:yiguizhang_666@163.com
 
 College of Animal Science and Technology,China Agricultural University
 
+
 ###O(∩_∩)O###
+
 
 一. cow_distribute
 
@@ -16,13 +18,15 @@ Required file📜:
 
 2.cow_distribute.param(Parameter file-Need to modify) 📝
 
-3.Province: The province code(Fixed file)
+3.Province: The province code(no header line;columns are the code of province and province)
 
-4.Farm: The Farm code(Fixed file)
+4.Farm: The Farm code(no header line;columns are the code of farm and farm)
 
 5.Example-data: Contains the id (Can be replace)
 
+
 ###O(∩_∩)O###
+
 
 二. Trace_Family
 
