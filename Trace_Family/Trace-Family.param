@@ -1,0 +1,36 @@
+#################################################################
+#     /**********/**********/**********//**********//**********//**********//**********/
+#   .--,       .--,
+#  ( (  \.---./  ) )
+#   '.__/o   o\__.'
+#      {=  ^  =}
+#       >  -  <
+#      /       \
+#     //       \\
+#    //|   .   |\\
+#    "'\       /'"_.-~^`'-.
+#       \  _  /--'         `
+#     ___)( )(___
+#    (((__) (__)))    
+# /**********/**********/**********//**********//**********//**********//**********/  
+#
+#
+###The description of the file
+# trace the final ancestor of cattle
+#
+
+### Parameter——Need to check
+### THE file contains the id of cow
+cow_file= 'E:\\Postgraduate_project\\github\\id\\Example-data'
+
+### The column of cow_id in cow_file:
+col_id = 2
+
+### The pedigree of all cattle——need to input
+ped_file = 'C:\\Users\\Administrator\\Desktop\\test1.txt'
+
+### The outfile1 ——output the cattle's pedigree until the final ancestor
+ped_tree = 'E:\\Postgraduate_project\\github\\Trace-Family\\Code\\ped_tree.txt'
+
+### The outfile2 ——output the cattle and it's final ancestor
+ancestor = 'E:\\Postgraduate_project\\github\\Trace-Family\\Code\\ancestor.txt'
