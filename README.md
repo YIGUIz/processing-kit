@@ -42,3 +42,5 @@ Required file📜:
 
 4.cow_file(no header line;columns need contain ID, use 'col_id' to specify the column of ID)
 
+三. Pick
+
