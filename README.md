@@ -9,9 +9,9 @@ College of Animal Science and Technology,China Agricultural University
 
 ###O(∩_∩)O###
 
-## Kits
+# Kits
 
-# 一. cow_distribute
+## 一. cow_distribute
 
 DEF📌:we can infer many informations from the standard id of cattle, such as the province,tha farm and birth year.
 
@@ -31,7 +31,7 @@ Required file📜:
 ###O(∩_∩)O###
 
 
-# 二. Trace_Family
+## 二. Trace_Family
 
 DEF📌:According the pedigree, trace the ancestor of cattle
 
@@ -45,5 +45,5 @@ Required file📜:
 
 4.cow_file(no header line;columns need contain ID, use 'col_id' to specify the column of ID)
 
-# 三. Pick
+## 三. Pick
 
