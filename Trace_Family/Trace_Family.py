@@ -72,14 +72,13 @@ def trace_family(cow_file,col_id,ped_file,ped_tree,ancestor):
                 out_file1.write(ind_sire+'\t')
             ind = ind_sire
         out_file1.write('\n')
-
-        for jline in open(ped_tree,'r'):
-            j = jline.strip().split()
-            if j[len(j)-1] =='0':
-                out_file2.write(j[0]+'\t'+j[len(j)-2]+'\n')
-            else:
-                out_file2.write(j[0]+'\t'+j[len(j)-1]+'\n')
-    out_file1.close()    
+    out_file1.close() 
+    for jline in open(ped_tree,'r'):
+        j = jline.strip().split()
+        if j[len(j)-1] =='0':
+            out_file2.write(j[0]+'\t'+j[len(j)-2]+'\n')
+        else:
+            out_file2.write(j[0]+'\t'+j[len(j)-1]+'\n')
     out_file2.close()
-    
+  
 trace_family(cow_file,col_id,ped_file,ped_tree,ancestor)
