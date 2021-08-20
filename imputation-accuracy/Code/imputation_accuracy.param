@@ -1,0 +1,33 @@
+#################################################################
+#     /**********/**********/**********//**********//**********//**********//**********/
+#   .--,       .--,
+#  ( (  \.---./  ) )
+#   '.__/o   o\__.'
+#      {=  ^  =}
+#       >  -  <
+#      /       \
+#     //       \\
+#    //|   .   |\\
+#    "'\       /'"_.-~^`'-.
+#       \  _  /--'         `
+#     ___)( )(___
+#    (((__) (__)))    
+# /**********/**********/**********//**********//**********//**********//**********/  
+#
+#
+###The description of the file
+# according to the cow_id check the distribution of cow
+#
+
+### Parameter——Need to check
+### THE ture genotype of ped-file 
+true_ped = 'C:\\Users\\Administrator\\Desktop\\for imputation\\test1'
+
+### The imputation genotype of ped-file
+imputated_ped = 'C:\\Users\\Administrator\\Desktop\\for imputation\\test2'
+
+### The imputation identical and accuracy
+result = 'C:\\Users\\Administrator\\Desktop\\for imputation\\imputation_accuracy.txt'
+
+### the number of common SNPs
+common = 1
