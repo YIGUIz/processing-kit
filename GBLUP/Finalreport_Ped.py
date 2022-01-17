@@ -61,8 +61,6 @@ def FRtoPed(rawdata,out,sep='\t',allele_type='Top'):
         switch1 = True
         for en,a in enumerate(open(rawdata)):
             n+=1
-            print(n)
-            print(type(n))
             if switch1:
                 if n < start_n:
                     continue
